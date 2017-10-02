@@ -14,9 +14,9 @@
     },
     "extra": {
         "laravel": {
-            "providers": {
+            "providers": [
                 "Modules\\Location\\Providers\\LocationServiceProvider"
-            },
+            ],
             "aliases": {
                 "Location": "Modules\\Location\\Facades\\Location"
             }
