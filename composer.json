@@ -1,0 +1,10 @@
+{
+    "name": "erikfig/son-laravel-location",
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "require": {}
+}
